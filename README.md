@@ -8,4 +8,8 @@ Víctor Asanza, Daniel Montoya, Enrique Peláez, Francis Loayza, Leandro L. Lore
 - Hardware: FM=16 chanels , Cyton + Dasy , Campling Rate = 125 Hz
 - Subjects: 24
 
-## Prepare the raw dataset
+## Plot Raw EEG Data
+![GraficaEEG](https://user-images.githubusercontent.com/12642226/134743672-6f64211c-ade5-408b-9d84-f15395cd00d0.jpg)
+
+## Plot Normalization EEG Data
+![GraficaNormEEG](https://user-images.githubusercontent.com/12642226/134743668-a2e095a1-a866-460a-9cfc-7a0e01eec841.jpg)
