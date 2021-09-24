@@ -1,0 +1,11 @@
+# Files
+#*.data
+data/*.mat
+data/*.csv
+figures/*.fig
+figures/*.jpg
+figuresNorm/*.fig
+figuresNorm/*.jpg
+# Folders
+#data/*.mat
+#Meetings
