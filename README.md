@@ -1,5 +1,6 @@
 # OpenBCI_Classification_Example
 Example of classification with EEG data recorded with OpenBCI
+
 ## Database for Upper and Lower Limb Task Based on EEG Signals During the Execution of Motor and Motorimagery Tasks
 Víctor Asanza, Daniel Montoya, Enrique Peláez, Francis Loayza, Leandro L. Lorente-Leyva, Diego H. Peluffo-Ordóñez and Kleber Gonzalez
 - Main Code: https://github.com/Human-Machine-Interface/OpenBCI_Data_Acquisition
