@@ -13,3 +13,9 @@ Víctor Asanza, Daniel Montoya, Enrique Peláez, Francis Loayza, Leandro L. Lore
 
 ## Plot Normalization EEG Data
 ![GraficaNormEEG](https://user-images.githubusercontent.com/12642226/134743668-a2e095a1-a866-460a-9cfc-7a0e01eec841.jpg)
+
+## Classification Motor Task (Label + 8)
+![MotorCase5](https://user-images.githubusercontent.com/12642226/134743862-09081b52-9aea-4849-b91e-da7c72fc7800.png)
+
+## Classification Imagery Task (Label)
+![ImageryCase8](https://user-images.githubusercontent.com/12642226/134743899-a99223aa-49da-4efb-b7f8-f536d331badf.png)
