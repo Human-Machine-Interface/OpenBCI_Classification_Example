@@ -1,0 +1,61 @@
+ID Subject,Nationality,Date of birth,Sex,Right-handed,Weight in Kg.,Height in m.,Level of education,Energy drinks,Alcoholic drinks,Smoke,Sports,Under medical treatment,Limb loss,Neurological disorder,COVID-19
+S1,Ecuadorian,5/8/1998,Male,Yes,70,175,Undergraduate,Almost never,Never,Never,Infrequent,No,No,No,No
+S2,Ecuadorian,6/1/1995,Male,Yes,73,1.77,Undergraduate,Never,Never,Never,Frequently,No,No,No,No
+S3,Ecuadorian,13/04/1986,Male,Yes,55,1.6,Undergraduate,Never,Never,Never,Infrequent,No,No,No,No
+S4,Ecuadorian,4/4/1994,Male,Yes,78,1.72,Undergraduate,Infrequent,Infrequent,Never,Frequently,No,No,No,Yes (February 2020)
+S5,Ecuadorian,23/04/1989,Female,Yes,45,1.6,Postgraduate,Never,Almost never,Never,Almost never,No,No,No,Si 
+S6,Ecuadorian,17/06/1990,Male,Yes,82,1.78,Undergraduate,Never,Never,Never,Almost never,No,No,No,No
+S7,Ecuadorian,2/8/1985,Female,Yes,59,1.55,Undergraduate,Never,Almost never,Never,Infrequent,No,No,No,No
+S8,Ecuadorian,6/5/1993,Female,Yes,58,1.61,Postgraduate,Never,Infrequent,Never,Infrequent,No,No,No,No
+S9,Ecuadorian,9/8/1984,Male,Yes,88,1.79,Postgraduate,Never,Infrequent,Never,Never,No,No,No,No
+S10,Ecuadorian,11/6/1986,Female,Yes,70,1.72,Postgraduate,Never,Infrequent,Never,Infrequent,No,No,No,No
+S11,Ecuadorian,5/8/1993,Male,Yes,73,1.67,Undergraduate,Never,Almost never,Never,Infrequent,No,No,No,No
+S12,Ecuadorian,5/1/1993,Female,Yes,57,1.59,Undergraduate,Never,Almost never,Never,Infrequent,No,No,No,No
+S13,Ecuadorian,31/03/1995,Male,Yes,75,1.68,Undergraduate,Infrequent,Frequently,Infrequent,Frequently,No,No,No,Yes (Abril 2020)
+S14,Ecuadorian,17/08/2000,Male,Yes,65,1.7,Undergraduate,Never,Never,Never,Never,No,No,No,No
+S15,Ecuadorian,6/6/1957,Male,Yes,80,1.6,Undergraduate,Never,Infrequent,Never,Almost never,"Yes, acetaminophen (June 2021)",No,No,No
+S16,Ecuadorian,7/12/1964,Female,Yes,70,1.59,Basic,Never,Almost never,Never,Almost never,No,No,No,No
+S17,Ecuadorian,20/03/1989,Male,Yes,81,1.77,Postgraduate,Never,Infrequent,Never,Never,No,"Yes, Amputation of right leg below the knee",No,No
+S18,Ecuadorian,11/6/1992,Female,Yes,72,1.75,Postgraduate,Never,Infrequent,Never,Infrequent,No,No,No,Yes (Febrero 2022)
+S19,Ecuadorian,17/09/1998,Male,Yes,75,1.78,Undergraduate,Almost never,Almost never,Almost never,Almost never,No,No,No,No
+S20,Ecuadorian,9/7/1998,Female,Yes,61,1.59,Undergraduate,Almost never,Almost never,Almost never,Almost never,No,No,No,No
+S21,Ecuadorian,16/07/2004,Female,Yes,35,1.48,Undergraduate,Never,Never,Never,Never,"Yes, ","Yes, Amputation on both hands",No,No
+S22,Ecuadorian,22/10/2003,Female,Yes,38,1.5,Basic,Never,Never,Never,Never,"Yes, anticonvulsants and sleep medication (December 2021)",No,"Yes, ICP for ventricular infarction with hydrocephalus",No
+S23,Ecuadorian,22/04/1999,Female,Yes,52,1.65,Undergraduate,Never,Almost never,Never,Infrequent,"Yes, albendazole and secnidazole (April 2021)",No,No,No
+S24,Ecuadorian,15/10/1998,Male,Yes,75,1.76,Undergraduate,Never,Infrequent,Never,Frequently,No,No,No,No
+S25,Ecuadorian,25/05/2000,Female,Yes,60,1.54,Undergraduate,Almost never,Almost never,Never,Never,No,No,No,No
+S26,Ecuadorian,22/10/1972,Female,Yes,90,1.6,Basic,Never,Almost never,Never,Never,No,No,No,Yes (January 2022)
+S27,Ecuadorian,15/08/1965,Male,Yes,65,1.62,Basic,Never,Almost never,Never,Never,No,No,No,Yes (January 2022)
+S28,Ecuadorian,27/11/2004,Female,Yes,56,1.58,Undergraduate,Almost never,Infrequent,Frequently,Frequently,No,No,No,No 
+S29,Ecuadorian,19/03/1968,Female,Yes,50,1.49,Undergraduate,Never,Almost never,Never,Almost never,No,No,No,No
+S30,Ecuadorian,22/11/1983,Male,Yes,78,1.68,Basic,Never,Never,Never,Never,No,No,No,No
+S31,Ecuadorian,13/08/1985,Female,Yes,62,1.59,Basic,Never,Never,Never,Never,No,No,No,No
+S32,Ecuadorian,7/8/1941,Female,Yes,52,1.5,Basic,Never,Almost never,Almost never,Almost never,No,No,No,Yes (August 2021) 
+S33,Ecuadorian,15/07/1957,Female,Yes,62,1.57,Basic,Never,Infrequent,Almost never,Infrequent,No,No,No,Yes (October 2021)
+S34,Ecuadorian,24/12/1997,Male,No,75,1.68,Undergraduate,Almost never,Infrequent,Almost never,Infrequent,No,No ,No,No
+S35,Ecuadorian,9/11/1999,Male,No,80,1.71,Undergraduate,Frequently,Infrequent,Never,Frequently,No,No,No,No
+S36,Ecuadorian,15/04/1992,Male,Yes,72,1.69,Basic,Never,Never,Never,Never,No,No,No,No
+S37,Ecuadorian,20/05/1989,Female,Yes,62,1.59,Basic,Never,Never,Never,Never,No,No,No,No
+S38,Ecuadorian,15/01/2000,Female,Yes,51,1.55,Undergraduate,Almost never,Almost never,Never,Never,No,No,No,Yes (December 2020)
+S39,Ecuadorian,7/8/1997,Female,Yes,60,1.6,Undergraduate,Almost never,Almost never,Never,Almost never,No,No,No,No
+S40,Ecuadorian,7/11/1996,Male,Yes,70,1.7,Undergraduate,Infrequent,Infrequent,Almost never,Frequently,No,No,No,Yes (March 2021)
+S41,Ecuadorian,26/09/1999,Female,Yes,58,1.62,Basic,Never,Never,Almost never,Never,No,No,No,No
+S42,Ecuadorian,1/7/1989,Male,Yes,79,1.75,Basic,Never,Almost never,Never,Almost never,No,No,No,No
+S43,Ecuadorian,21/09/2000,Male,Yes,65,1.6,Undergraduate,Infrequent,Infrequent,Almost never,Frequently,No,No,No,Yes (September 2021)
+S44,Ecuadorian,30/05/1999,Male,Yes,90,1.8,Undergraduate,Never,Infrequent,Almost never,Infrequent,No,No,No,No
+S45,Ecuadorian,3/7/1992,Male,Yes,85,1.77,Basic,Almost never,Never,Never,Frequently,No,No,No,No
+S46,Ecuadorian,20/04/1993,Female,Yes,60,1.63,Postgraduate,Almost never,Almost never,Never,Almost never,No,No,No,No
+S47,Ecuadorian,13/10/1993,Male,Yes,59,1.61,Undergraduate,Never,Never,Never,Almost never,"Yes, Paracetamol (February 2022)",No,No,Yes (July 2021)
+S48,Ecuadorian,9/2/1999,Female,Yes,47,1.59,Undergraduate,Never,Infrequent,Never,Almost never,No,No,No,Yes (January 2022)
+S49,Ecuadorian,2/11/1988,Female,Yes,50,1.68,Postgraduate,Almost never,Frequently,Never,Almost never,No,No,No,Yes (June 2021)
+S50,Ecuadorian,6/3/1991,Female,No,55,1.54,Postgraduate,Never,Frequently,Never,Frequently,No,No,No,Yes (December 2021)
+S51,Ecuadorian,7/5/1984,Male,Yes,82,1.75,Basic,Almost never,Never,Almost never,Never,No,No,No,No
+S52,Ecuadorian,12/7/1982,Female,Yes,65,1.59,Undergraduate,Never,Never,Never,Almost never,No,No,No,No
+S53,Ecuadorian,2/3/1997,Female,Yes,55,1.62,Undergraduate,Never,Never,Never,Never,No,No,No,No
+S54,Ecuadorian,15/04/1997,Male,Yes,79,1.71,Undergraduate,Never,Infrequent,Never,Frequently,"Yes, Loratadine (August 2021)",No,No,Yes (November 2021)
+S55,Ecuadorian,18/12/1992,Female,Yes,45,1.57,Undergraduate,Never,Infrequent,Never,Infrequent,No,No,No,No
+S56,Ecuadorian,28/09/1995,Female,Yes,77,1.62,Undergraduate,Almost never,Infrequent,Almost never,Frequently,No,No,No,Yes (January 2022)
+S57,Ecuadorian,14/09/1997,Male,Yes,88,1.66,Undergraduate,Infrequent,Almost never,Never,Infrequent,No,No,No,Yes (October 2021)
+S58,Ecuadorian,22/05/2003,Male,Yes,82,1.82,Undergraduate,Infrequent,Infrequent,Almost never,Frequently,No,No,No,No
+S59,Ecuadorian,12/11/1996,Male,Yes,64,1.78,Undergraduate,Almost never,Infrequent,Frequently,Almost never,No,No,No,No
+S60,Ecuadorian,17/06/2003,Female,Yes,69,1.61,Undergraduate,Almost never,Never,Never,Frequently,No,No,No,Yes (January 2022)
