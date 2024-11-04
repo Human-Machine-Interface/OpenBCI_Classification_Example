@@ -1,7 +1,7 @@
 # Files
 #*.data
 data/*.mat
-data/*.csv
+#data/*.csv
 figures/*.fig
 figures/*.jpg
 figuresNorm/*.fig
